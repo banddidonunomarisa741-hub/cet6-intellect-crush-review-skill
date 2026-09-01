@@ -1,6 +1,6 @@
 ---
 name: cet6-review-skill
-description: 面向 Codex 的大学英语六级深度复盘 Skill：按短命令路由语篇填词、阅读证据链、命题行为、中文背景、中文极简讲解、作文/翻译训练和复盘；不把推断冒充官方命题内幕或正式成绩。
+description: 面向 Codex 的大学英语六级深度复盘 Skill：按短命令路由语篇填词、阅读证据链、命题行为、中文背景、中文极简讲解、作文/翻译训练、个人词句复用和复盘；不把推断冒充官方命题内幕或正式成绩。
 metadata:
   short-description: CET-6 deep review skill for Codex
 ---
@@ -22,6 +22,8 @@ metadata:
 7. 对 2016 年以后样本给予主要权重，2019 年以后作为当前风格高权重样本；更早材料仅用于历史对比。不得把 2019 年未经核验地称为唯一改革年份。
 8. 领域锁定：用户提交六级文章、题目、选项或作文时，即使没有写完整指令，也自动进入本 Skill；不要求用户重复背景。短命令只用于选择增强模块。
 9. 默认深度：先进行不暴露答案的证据分析，再核对答案，再做证据、逆向、碎片训练和复盘；不展示模型的盲答选项。一轮结束后按掌握度安排下一轮，不进行无法停止的无限生成。中文式刷题、中文背景和蒙题弱策略均须由用户短命令或明确要求触发；不得自说自话追加。用户要生成语篇填词时，必须经过独立求解和唯一性审计，不把未经校验的草稿直接当题目。
+10. 作文或翻译存在用户个人语言库时，默认只检索当前题目相关的 `active`／`recycle` 条目；若用户明确要求“个性化范文/词句复用”，读取 `personal_language_bank.md`。没有个人材料时不得声称已复用。范文正文保持自然英文，定向注释层为高价值词句附当前中文义项、词性/句型槽位和搭配限制，不逐词翻译、不因使用高级词句而虚增评分。
+11. 作文或翻译输出范文、参考译文或改写示范时，即使用户没有开启完整中文模式，也默认附一层紧凑的“亲民词句注释”：只解释少量有迁移价值、易误用或影响语义的词组和句型；单纯评分、纠错或用户明确要求纯英文时不生成该层。阅读的中文背景/中文极简规则不因此改变。
 
 ## 短命令路由
 
@@ -34,7 +36,10 @@ metadata:
 | `阅读·溯源` | `reading_logic.md` + `source_trace.md` | 来源状态、改写比较、对作答帮助的置信度 |
 | `语篇填词` / `语篇填词·生成` | `cloze.md` | 从词表原创生成六级风格语篇、干扰项、唯一性审计和复现训练 |
 | `作文·评分` | `writing_grading.md` + `human_rubric.md` + `writing_calibration.md` | 官方总体印象档次、六级锚定样卷、证据链和二稿校准 |
+| `作文·个性化范文` / `作文·词句复用` | `writing_grading.md` + `personal_language_bank.md` | 将用户会背/待使用词句和近期句型自然嵌入原创范文，并给高价值表达附中文义项、搭配和复用任务 |
 | `翻译·训练` | `translation.md` + `human_rubric.md` + `translation_calibration.md` | 官方档次、信息单元、译文证据和二稿迭代 |
+| `翻译·个性化指导` / `翻译·词句复用` | `translation.md` + `personal_language_bank.md` | 将相关个人词句复用到译文指导，附中文义项、句法角色、搭配限制和回译练习 |
+| `范文·复用词句` | `personal_language_bank.md` | 根据当前是作文还是翻译自动选择对应输出，复用用户词句并附定向中文注释 |
 | `复盘` | `review_loop.md` | 错误归因、迁移题、下次任务 |
 | `六级训练` / `深度训练` | `deep_drill.md` | 自动执行答案隔离分析→校正→逆向→碎片题→复盘闭环 |
 | `蒙题·选项分布·熵` | `weak_decisions.md` | 仅在用户需要时解释统计弱策略 |
@@ -66,6 +71,7 @@ Skill 不会改变模型权重；“预训练”在本项目中指将合法取�
 | 碎片训练 | `modules/question_fragmentation.md` | 将考点拆成最小训练单元和同机制变式题 |
 | 语篇填词 | `modules/cloze.md` | 词性、搭配、语境约束和复现训练 |
 | 作文评分 | `modules/writing_grading.md` | 训练性评分、锚定样本、区间和人工复核 |
+| 个性化词句复用 | `modules/personal_language_bank.md` | 从用户语言库检索相关词句/句型，嵌入作文与翻译范文并附亲民中文注释 |
 | 翻译训练 | `modules/translation.md` | 信息、句法、搭配和二次改写 |
 | 用户复盘 | `modules/review_loop.md` | 错误画像、迁移训练和长期记忆 |
 | 质量审计 | `modules/evaluation_protocol.md` | 跨年份隐藏答案评测、失败案例、回归和版本发布门槛 |
@@ -92,6 +98,7 @@ Skill 不会改变模型权重；“预训练”在本项目中指将合法取�
 - `modules/question_fragmentation.md`
 - `modules/cloze.md`
 - `modules/writing_grading.md`
+- `modules/personal_language_bank.md`
 - `modules/translation.md`
 - `modules/human_rubric.md`
 - `modules/anchor_samples.md`

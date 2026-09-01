@@ -12,7 +12,10 @@
 争议题·深度复盘
 语篇填词
 作文·评分
+作文·个性化范文
 翻译·训练
+翻译·个性化指导
+范文·复用词句
 复盘
 ```
 
@@ -37,6 +40,10 @@ GitHub 同类项目检索见 [corpus/GitHub相关Skill检索记录.md](corpus/Gi
 蒙题策略不会默认插入每次讲解。只有用户说出“蒙题/选项分布/熵”，或题目被识别为高难、低得分率、争议题时，才展示统计弱决策和低权重小策略；复杂题自动进入三次训练。
 
 高错误率/争议题的最高审查档见 [modules/high_error_ceiling.md](modules/high_error_ceiling.md)。它要求先证明“公开错误率”或“多来源实质争议”的证据等级，再完整跑答案隔离、证据链、语言层、题型、逻辑断点、干扰项、定位成本、唯一性、反事实、可选溯源、碎片变式和三次训练，最后压缩成天花板卡片。没有逐题官方统计时不会冒称“官方高错误率”；“预训练”仅指运行时资料加载，不修改模型权重。当前候选索引见 [corpus/天花板题型索引.md](corpus/天花板题型索引.md)。
+
+作文和翻译可以按需读取 [modules/personal_language_bank.md](modules/personal_language_bank.md)，从 [corpus/个人语言库模板.md](corpus/个人语言库模板.md) 维护自己的词、词组和近期句型。个性化范文会优先复用相关条目，但不硬塞；识别到有迁移价值的表达时，在英文范文之后附当前语境中文义、词性/句型槽位和搭配限制。该中文层是定向亲民注释，不是整篇逐词翻译，也不替代官方评分标准。
+
+输出形态示例见 [corpus/演示-个性化范文指导.md](corpus/演示-个性化范文指导.md)。
 
 官方来源和版本判断见 [modules/official_sources.md](modules/official_sources.md)。写作/翻译的人类评分标准、官方图片样卷页码与校准协议见 [modules/human_rubric.md](modules/human_rubric.md)、[modules/anchor_samples.md](modules/anchor_samples.md)、[modules/writing_calibration.md](modules/writing_calibration.md) 和 [modules/translation_calibration.md](modules/translation_calibration.md)。
 

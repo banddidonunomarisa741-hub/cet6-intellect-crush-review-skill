@@ -2,7 +2,7 @@
 name: cet6-review-skill
 description: 面向 Codex 的大学英语六级深度复盘 Skill：按短命令路由语篇填词、阅读证据链、命题行为、中文背景、中文极简讲解、作文/翻译训练和复盘；不把推断冒充官方命题内幕或正式成绩。
 metadata:
-  short-description: CET-6 evidence-driven coach for Codex
+  short-description: CET-6 deep review skill for Codex
 ---
 
 # CET-6 Review Skill

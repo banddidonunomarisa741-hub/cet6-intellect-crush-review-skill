@@ -8,6 +8,8 @@
 阅读·出题人视角分析·中文背景
 阅读·中文极简
 阅读·溯源
+高难题·天花板
+争议题·深度复盘
 语篇填词
 作文·评分
 翻译·训练
@@ -33,6 +35,8 @@ GitHub 同类项目检索见 [corpus/GitHub相关Skill检索记录.md](corpus/Gi
 竞争不能靠宣传保证；比较方法见 [corpus/竞争基准方案.md](corpus/竞争基准方案.md)。在完成冻结测试集和同模型对照前，本项目不声称击败任何 GitHub Skill。
 
 蒙题策略不会默认插入每次讲解。只有用户说出“蒙题/选项分布/熵”，或题目被识别为高难、低得分率、争议题时，才展示统计弱决策和低权重小策略；复杂题自动进入三次训练。
+
+高错误率/争议题的最高审查档见 [modules/high_error_ceiling.md](modules/high_error_ceiling.md)。它要求先证明“公开错误率”或“多来源实质争议”的证据等级，再完整跑答案隔离、证据链、语言层、题型、逻辑断点、干扰项、定位成本、唯一性、反事实、可选溯源、碎片变式和三次训练，最后压缩成天花板卡片。没有逐题官方统计时不会冒称“官方高错误率”；“预训练”仅指运行时资料加载，不修改模型权重。当前候选索引见 [corpus/天花板题型索引.md](corpus/天花板题型索引.md)。
 
 官方来源和版本判断见 [modules/official_sources.md](modules/official_sources.md)。写作/翻译的人类评分标准、官方图片样卷页码与校准协议见 [modules/human_rubric.md](modules/human_rubric.md)、[modules/anchor_samples.md](modules/anchor_samples.md)、[modules/writing_calibration.md](modules/writing_calibration.md) 和 [modules/translation_calibration.md](modules/translation_calibration.md)。
 

@@ -39,6 +39,7 @@ metadata:
 | `六级训练` / `深度训练` | `deep_drill.md` | 自动执行答案隔离分析→校正→逆向→碎片题→复盘闭环 |
 | `蒙题·选项分布·熵` | `weak_decisions.md` | 仅在用户需要时解释统计弱策略 |
 | `争议题·三练` / `高难题` | `triple_drill.md` | 复杂、低得分率或争议题三阶段复现 |
+| `高难题·天花板` / `争议题·深度复盘` / `高错误率题型` | `high_error_ceiling.md` + `triple_drill.md` | 对有公开错误率证据或多来源实质争议的题目执行最高审查档，并压缩成可检索天花板卡片 |
 | `成本·模型比较` | `cost_comparison.md` | 按 token、缓存、订阅和人工复核成本比较模型 |
 
 可组合多个短命令，例如：`阅读·出题人视角分析·中文背景`。若用户指定题号、字数、难度或中文比例，只处理指定范围。
@@ -59,6 +60,7 @@ Skill 不会改变模型权重；“预训练”在本项目中指将合法取�
 | 题目建模 | `modules/question_taxonomy.md` | 题型、考点、证据距离、推理操作和难度 |
 | 逻辑断点 | `modules/logic_breakpoints.md` | 找出读者可能在哪一步误判，以及需要的最小证据 |
 | 命题逆向 | `modules/item_writer.md` | 信息定位、干扰项、时间负荷、唯一性和跨卷模式 |
+| 高错误率/争议天花板 | `modules/high_error_ceiling.md` | 证据分级、候选筛选、完整复盘、机制压缩和三次迁移训练 |
 | 原文溯源 | `modules/source_trace.md` | 候选来源、删改比较和命题影响；找不到即降级 |
 | 中文背景 | `modules/background.md` | 主题知识压缩、概念预览和证据边界 |
 | 碎片训练 | `modules/question_fragmentation.md` | 将考点拆成最小训练单元和同机制变式题 |
@@ -76,6 +78,7 @@ Skill 不会改变模型权重；“预训练”在本项目中指将合法取�
 
 - `modules/reading_logic.md`
 - `modules/item_writer.md`
+- `modules/high_error_ceiling.md`
 - `modules/corpus_acquisition.md`
 - `modules/corpus_normalization.md`
 - `modules/blind_calibration.md`

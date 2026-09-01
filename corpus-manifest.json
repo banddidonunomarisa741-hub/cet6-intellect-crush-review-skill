@@ -1,0 +1,1106 @@
+[
+  {
+    "session": "2015-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-1/",
+    "retrieved_at": "2026-09-01T03:31:01.214250+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "7c3863378086737a86731865b32299261be559c4218bca7ce81908a94b841533",
+    "text_characters": 32303,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2015-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-2/",
+    "retrieved_at": "2026-09-01T03:31:01.488739+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "d721801028dbda79ac014805f1345d75598614e754cd93acea2f60a6d0a530ce",
+    "text_characters": 33098,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2015-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-06-3/",
+    "retrieved_at": "2026-09-01T03:31:01.708374+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "c8e290ecbf201b43a23001789dd2cb309d4120c4be955ccd6d53a2e09176714e",
+    "text_characters": 32925,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2015-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-1/",
+    "retrieved_at": "2026-09-01T03:31:02.109154+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "eafb55cc2b176b17f7e528f89df890fabdbfb80ed4ae4a44c41c8c6a4d8fc33a",
+    "text_characters": 33398,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2015-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-2/",
+    "retrieved_at": "2026-09-01T03:31:02.707766+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "1ed11ece0922dac388a13d6868c1a8e1aeed92110600b56775e5c9639f3903ec",
+    "text_characters": 32993,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2015-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2015-12-3/",
+    "retrieved_at": "2026-09-01T03:31:03.181309+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "f07df48c4b2c67a422cfd5a5d2a4a3a1b1538cc22ebfa691629a2f6e07eeb3c3",
+    "text_characters": 33531,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-1/",
+    "retrieved_at": "2026-09-01T03:31:03.764615+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "eefe196bac01c2966e1313199538d8685cc561bd72ef4b001faf6158d2ae6f1f",
+    "text_characters": 32908,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-2/",
+    "retrieved_at": "2026-09-01T03:31:04.193130+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "4a1575fdadc0f18c2d0b7a61da2e700e649815ce2f6319de5d9d97f168218c86",
+    "text_characters": 32981,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-06-3/",
+    "retrieved_at": "2026-09-01T03:31:04.677001+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "8a9711c6f08a4fde1854775fe3e43d7fed628c19fe5e33b9c0f04509a8895b35",
+    "text_characters": 26002,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-1/",
+    "retrieved_at": "2026-09-01T03:31:04.860401+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "fdaedf06dc916d37577068a25f6e454f452c411968f828c6b233f4a98bbb378e",
+    "text_characters": 32645,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-2/",
+    "retrieved_at": "2026-09-01T03:31:05.094667+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "15e2eea057c2f416ac19d740168e40c63a1d85936c2659f0318b1ad63580ec5a",
+    "text_characters": 33121,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2016-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2016-12-3/",
+    "retrieved_at": "2026-09-01T03:31:05.281332+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "8682799c51dc95f383ee5bb07c32142f1fbc61a791864ffa51b43150a61ec649",
+    "text_characters": 27266,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-1/",
+    "retrieved_at": "2026-09-01T03:31:05.867783+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "69dfd618f230b83c7d4961659778c3da15eda7cce8852755ee82136806cbf1a3",
+    "text_characters": 33530,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-2/",
+    "retrieved_at": "2026-09-01T03:31:06.038589+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "d9b9d20bb38ea1db027dfe509fae0bf0b503c03dc4147a5387cf8f3e2da9d79a",
+    "text_characters": 32358,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-06-3/",
+    "retrieved_at": "2026-09-01T03:31:06.281049+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "9591b694a7e63aa80dd728f40018d4097d3b28fc7aecfb797a61e7b71689560d",
+    "text_characters": 26982,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-1/",
+    "retrieved_at": "2026-09-01T03:31:06.492180+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "b2c611da8f9be7baab5b2955a4780f59f24074eee5403eab6a6a0f559931490d",
+    "text_characters": 32922,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 11,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-2/",
+    "retrieved_at": "2026-09-01T03:31:06.930987+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "21e1c1f74777b57815109788b0fe1726377eab80ffa6caebbd7939121974803b",
+    "text_characters": 32570,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2017-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2017-12-3/",
+    "retrieved_at": "2026-09-01T03:31:07.176063+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "b6a2d02945484968f954947a26d9e2772b79c5d71ea9ff5578d66da9f4691b65",
+    "text_characters": 25510,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-1/",
+    "retrieved_at": "2026-09-01T03:31:07.405861+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "d6596a740454846f9b583f3735f355c3d479637c6cb87d0816e3a77fc68d7e48",
+    "text_characters": 32145,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 11,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-2/",
+    "retrieved_at": "2026-09-01T03:31:07.659256+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "55818344fa3371e4bb5252104cf192c5da7af8841e1866136fbbfbb8d149e143",
+    "text_characters": 32310,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-06-3/",
+    "retrieved_at": "2026-09-01T03:31:07.840091+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "48016cd58172212b25fd7906bbeb53c6711e3a17401bfcc4124ae68b15efd1e7",
+    "text_characters": 26588,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-1/",
+    "retrieved_at": "2026-09-01T03:31:08.045726+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "e093f2d4b95d11e22584039d098bca29111684f44a0d7149e5bf5f7398cf37b9",
+    "text_characters": 33251,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-2/",
+    "retrieved_at": "2026-09-01T03:31:08.273941+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "496c209c396ef90bce4ee6cea6bc4f7141fea23038f793cae80595a97e00c758",
+    "text_characters": 32853,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2018-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2018-12-3/",
+    "retrieved_at": "2026-09-01T03:31:08.511847+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "950a7b1346ca0ecb08da01e065b485f8d4992168dfda743624fef9ae284ef84e",
+    "text_characters": 26124,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-1/",
+    "retrieved_at": "2026-09-01T03:31:08.934721+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "d3d1b5b686677e685b499226b98f4d93aacb542df18235dd8e64681b72f89900",
+    "text_characters": 32925,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-2/",
+    "retrieved_at": "2026-09-01T03:31:09.205941+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "f326dac919ccaad2a74715e9b4c2f6232bcd4f5d92fb78d2b6177789c78426c1",
+    "text_characters": 32890,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-06-3/",
+    "retrieved_at": "2026-09-01T03:31:09.458312+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "4ba9cd6346cf9110e7f60222164b3bf900c623d3572d6fbc47fdcae00dd27dc3",
+    "text_characters": 27013,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-1/",
+    "retrieved_at": "2026-09-01T03:31:09.875785+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "7a3b90b93a86d21b0b75f908ed0df72878826af6e87cab9e73d8e213a117a2bb",
+    "text_characters": 32464,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-2/",
+    "retrieved_at": "2026-09-01T03:31:10.113607+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "51048c522876e4081c919e27593bf1bd39607e2a942a50cd3bf38cb4df8fc738",
+    "text_characters": 31545,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2019-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2019-12-3/",
+    "retrieved_at": "2026-09-01T03:31:10.304286+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "dad06608a1a153718fa758e343ef0180a4b70e5b4b53aedf78fc8c925ed13cde",
+    "text_characters": 27311,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2020-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-1/",
+    "retrieved_at": "2026-09-01T03:31:10.517008+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "f1b935d0577d164af646094c69e90db6f80ffa69269ef2b338f8b0ab92087e0a",
+    "text_characters": 34029,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2020-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-2/",
+    "retrieved_at": "2026-09-01T03:31:10.718289+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "afb5aa3df4f07694a7e3e577c7210916862e5fed2a4725e4d0a5d56f476d9628",
+    "text_characters": 34746,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2020-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2020-12-3/",
+    "retrieved_at": "2026-09-01T03:31:10.969434+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "253c87741ea58221f6b8d95472a18339778a4e33e73ec3f5822bb976bc710f52",
+    "text_characters": 27460,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-1/",
+    "retrieved_at": "2026-09-01T03:31:11.252361+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "4d9974d8f80cfa0fc5bb8bf33292fe0050a6c6dfe356162e687bb48edf406fc7",
+    "text_characters": 32663,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-2/",
+    "retrieved_at": "2026-09-01T03:31:11.493116+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "45e13e4cff5e6afc2556d810b0a6aa5363c9b4e8eda615b2b0ad59d5bbcbccc4",
+    "text_characters": 32666,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-06-3/",
+    "retrieved_at": "2026-09-01T03:31:11.726662+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "c484bec0fa4335a1474f195d60caf1f76e740a36f67a3a76703ce42a49b60412",
+    "text_characters": 26277,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-1/",
+    "retrieved_at": "2026-09-01T03:31:12.122162+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "23fe8ec476984e7eb1319b917c7cf59cbc1adeb8ec9fe7aa64c3fcddeb7febe1",
+    "text_characters": 33056,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-2/",
+    "retrieved_at": "2026-09-01T03:31:12.548293+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "4db1dfaf006d84b64504f8885509597520564926330a71aa082f93bb94afdecb",
+    "text_characters": 33884,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2021-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2021-12-3/",
+    "retrieved_at": "2026-09-01T03:31:12.939009+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "7a5c365ef4123df7bafff7956443c46e11b2405d4f730af870637b8282d8e45e",
+    "text_characters": 24415,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-1/",
+    "retrieved_at": "2026-09-01T03:31:13.342160+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "c95ac0b0bfe1aaeac1259c5e0be56730470864807cacc81aa73357cd3826a2b3",
+    "text_characters": 33537,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-2/",
+    "retrieved_at": "2026-09-01T03:31:13.529091+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "a3ee9b7361351a473388c125134c4c0c3333562c81c352f4c5cbdb2e527194bd",
+    "text_characters": 27429,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-06-3/",
+    "retrieved_at": "2026-09-01T03:31:13.899699+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "a971ec96859319a2a4ffce959652b205ecc5129034a03bcf6b2b39956aeacbf5",
+    "text_characters": 5639,
+    "sections": {
+      "writing": 1,
+      "listening": 0,
+      "reading_questions": 0,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-09",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-1/",
+    "retrieved_at": "2026-09-01T03:31:14.047476+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "e5c4fa2b4b219cf6deab15a3b5f217554bf2ebbbd98a63687dcfd2a8fcd0eceb",
+    "text_characters": 33994,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-09",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-2/",
+    "retrieved_at": "2026-09-01T03:31:14.456563+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "6c4f7930f29cbcb08e6f3f30e6cfa9e938aa9e440117a3a65cbdec9de575796d",
+    "text_characters": 5533,
+    "sections": {
+      "writing": 1,
+      "listening": 0,
+      "reading_questions": 0,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-09",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-09-3/",
+    "retrieved_at": "2026-09-01T03:31:14.598228+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "98dd1134dcde45864fd56422fa3342e29c59cbc86bf966f12996a6ee81b4f2aa",
+    "text_characters": 5654,
+    "sections": {
+      "writing": 1,
+      "listening": 0,
+      "reading_questions": 0,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-1/",
+    "retrieved_at": "2026-09-01T03:31:14.918180+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "5515375882ce8dd70d5eb4e313d9d238aaa32f0f04702b9459d8ffa40937a898",
+    "text_characters": 33986,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-2/",
+    "retrieved_at": "2026-09-01T03:31:15.399784+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "3e2531ff888f697a573db59cbbaf5ec4174f0831b9857b4306a10539fcc3ef45",
+    "text_characters": 33836,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 11,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2022-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2022-12-3/",
+    "retrieved_at": "2026-09-01T03:31:15.651826+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "f77285ec3db1df98f0d3558f5397095edde40a0326ece6a7a15fd338dbabc5e6",
+    "text_characters": 27158,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-03",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-1/",
+    "retrieved_at": "2026-09-01T03:31:16.195033+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "7814383151a29f71a8efc10c2318d7b6a2e05bbf3acde606188d810678544672",
+    "text_characters": 33106,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-03",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-2/",
+    "retrieved_at": "2026-09-01T03:31:16.484120+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "5e4bf056e37b85faa5485b9fe9b2545736c880b873ece0d5541a52d06594dbaf",
+    "text_characters": 5491,
+    "sections": {
+      "writing": 1,
+      "listening": 0,
+      "reading_questions": 0,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-03",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-03-3/",
+    "retrieved_at": "2026-09-01T03:31:16.727473+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "22f178e08c4322bb269581f603aaa6995efcd28682c47913c35edf73f94f0a93",
+    "text_characters": 5666,
+    "sections": {
+      "writing": 1,
+      "listening": 0,
+      "reading_questions": 0,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-1/",
+    "retrieved_at": "2026-09-01T03:31:16.960673+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "1dfe2ab681eeb596e109baaffc7ecd6f690a0b9b8ea0ca03145d705e639de662",
+    "text_characters": 34358,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-2/",
+    "retrieved_at": "2026-09-01T03:31:17.296053+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "78b9371649bc318222d2fec519cfcd5b1ebc887649ba0425fb7541867aaf0963",
+    "text_characters": 33767,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-06-3/",
+    "retrieved_at": "2026-09-01T03:31:17.533198+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "7fbb59398e8a7d39e37ee28b1feb589b6ed64211d59aeb9a41eb2c11df6ed99d",
+    "text_characters": 27112,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-1/",
+    "retrieved_at": "2026-09-01T03:31:17.830272+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "217e54547241fe608b0d2ae51a955b703dbbc900ade751b3ff15e5af799bd67d",
+    "text_characters": 34464,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-2/",
+    "retrieved_at": "2026-09-01T03:31:18.104802+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "51092890677cc450307464e1a08b35ac309487cf2ac3e914580eaaf02aaa3650",
+    "text_characters": 34887,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2023-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2023-12-3/",
+    "retrieved_at": "2026-09-01T03:31:18.318981+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "3da84eb98f0219377a0c4ac6c5e77e4cb0406d11d252630f8615c70dd547daff",
+    "text_characters": 27931,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-1/",
+    "retrieved_at": "2026-09-01T03:31:18.488909+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "795cd86939c95fe2e68172f715c6dd77710b40aafd70e757b685b55833ae5eeb",
+    "text_characters": 34264,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-2/",
+    "retrieved_at": "2026-09-01T03:31:18.758812+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "97ea26e0b6163f72df2dfb6adc42e8a8d538d55579f88acf7b612569a34678be",
+    "text_characters": 34545,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-06-3/",
+    "retrieved_at": "2026-09-01T03:31:19.087299+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "e71b03feac2a85282b7ce480fd416b155f09ebcd7f9fc0386a70bc7383ba83d9",
+    "text_characters": 27541,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-1/",
+    "retrieved_at": "2026-09-01T03:31:19.690048+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "302a286d8a7e6fce2bb3006688bcc7fc3261e1a521b06e1610df05b48311ca54",
+    "text_characters": 34344,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-2/",
+    "retrieved_at": "2026-09-01T03:31:20.096815+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "48f5497fdd577767ec5e75efb5415bf42258b4806cadf2a50176b7d6fb5d3fe1",
+    "text_characters": 33556,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2024-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2024-12-3/",
+    "retrieved_at": "2026-09-01T03:31:20.417149+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "3e3b33ac982cd8a11791d272673410f9239f4c6a4a4c1ed5b8d2f9a4f6bbddc8",
+    "text_characters": 27944,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-06",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-1/",
+    "retrieved_at": "2026-09-01T03:31:20.658713+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "b61cbfefdd7bfbd1848ea15385f839230f10633c6923fae321e192b11bcc1358",
+    "text_characters": 36197,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-06",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-2/",
+    "retrieved_at": "2026-09-01T03:31:21.026389+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "cdd76392ab532509585b3d18225352566edd8161ece977eabc55ebf3cd8c780f",
+    "text_characters": 33884,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-06",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-06-3/",
+    "retrieved_at": "2026-09-01T03:31:21.324359+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "ddcf4173182923354d5d828dcd48c15d5e035807b18685d3ed78987781e19cf1",
+    "text_characters": 28839,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-12",
+    "paper": 1,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-1/",
+    "retrieved_at": "2026-09-01T03:31:21.559884+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "014c9c81205488259439142aa94565165e9f40b8b6f5593d6ad175e2fd7312c1",
+    "text_characters": 33835,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-12",
+    "paper": 2,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-2/",
+    "retrieved_at": "2026-09-01T03:31:21.784729+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "a0582bbc895734c283394b527e519efb1608bdeff1c68615f350a338c5f5070b",
+    "text_characters": 34007,
+    "sections": {
+      "writing": 1,
+      "listening": 9,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  },
+  {
+    "session": "2025-12",
+    "paper": 3,
+    "url": "https://english-exam.lazynote.cn/cet6/paper/2025-12-3/",
+    "retrieved_at": "2026-09-01T03:31:22.060486+00:00",
+    "source_status": "unverified_public_reference",
+    "http_status": 200,
+    "content_sha256": "3b7adb15fa69cdc107415b279d408ec88be67802ac73fd4f0cfe7b35dfcc3de5",
+    "text_characters": 27710,
+    "sections": {
+      "writing": 1,
+      "listening": 2,
+      "reading_questions": 10,
+      "translation": 1
+    }
+  }
+]

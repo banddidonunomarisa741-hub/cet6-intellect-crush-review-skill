@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+corpus-cache/
+raw-pages/
+full-text/
+answer-keys/

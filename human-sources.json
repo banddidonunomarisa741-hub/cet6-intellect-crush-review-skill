@@ -1,0 +1,175 @@
+[
+  {
+    "id": "neea-cet-outline-2016",
+    "kind": "official_rubric_and_anchor_pdf",
+    "title": "《全国大学英语四、六级考试大纲（2016年修订版）》",
+    "publisher": "中国教育考试网 / 全国大学英语四、六级考试委员会",
+    "url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+    "landing_page": "https://cet.neea.edu.cn/html1/folder/16113/1588-1.htm",
+    "retrieved_at": "2026-09-01",
+    "sha256": "9166D3C03B7BC43ABD9D9DF91BD2EF8085B4419286F1E5CA100DEA68F3CFD1F1",
+    "evidence_locations": {
+      "writing_rubric": "section 4.1; printed pages 10-11",
+      "translation_rubric": "section 4.2; printed pages 10-11",
+      "cet6_writing_anchors": "printed pages 200-202",
+      "cet6_translation_anchors": "printed pages 205-206"
+    },
+    "license_status": "official_public_access_read_and_analyze; redistribution_rights_not_assumed",
+    "allowed_in_skill": "URL, page references, hash, short quotations, and analysis metadata only",
+    "not_allowed_by_default": "repackaging the full PDF, full-page scans, or the complete sample essays"
+  },
+  {
+    "id": "researchsquare-chatgpt-aes-2025",
+    "kind": "open_research_method_reference",
+    "title": "Potential Use of ChatGPT for Automated Essay Scoring Based",
+    "url": "https://doi.org/10.21203/rs.3.rs-7533498/v1",
+    "license_status": "CC-BY-4.0 listed in Crossref metadata; verify the current landing page before copying any text or data",
+    "use": "methodological reference for human-rater comparison, ICC and disagreement analysis; not CET-6 evidence",
+    "limitation": "IELTS Task 2 sample, not Chinese CET-6; cannot transfer its scores or conclusions directly"
+  },
+  {
+    "id": "kela-chatgpt-aes-2023",
+    "kind": "peer_reviewed_method_reference",
+    "title": "Applicability of Fine-Tuned ChatGPT to Automated Essay Scoring",
+    "doi": "10.37244/ela.2023.18.2.11",
+    "url": "https://doi.org/10.37244/ela.2023.18.2.11",
+    "license_status": "not identified in Crossref metadata; cite and link, do not copy full text or dataset",
+    "use": "methodological caution: fine-tuning improved consistency but the tested model did not fully replace human raters",
+    "limitation": "YELC essays and GPT-3.5, not CET-6 or current Codex; evidence is not a capability ceiling"
+  },
+  {
+    "id": "arxiv-2401-03401",
+    "kind": "open_research_method_reference",
+    "title": "Empirical Study of Large Language Models as Automated Essay Scoring Tools in English Composition",
+    "url": "https://arxiv.org/abs/2401.03401",
+    "license_status": "arXiv public preprint; check the paper's license before reusing any text, tables or data",
+    "use": "shows prompt design can provide operational AES feedback while regression and domain transfer remain concerns",
+    "limitation": "TOEFL independent writing, not CET-6; use only for evaluation design"
+  },
+  {
+    "id": "arxiv-2403-06149",
+    "kind": "open_research_method_reference",
+    "title": "Can Large Language Models Automatically Score Proficiency of Written Essays?",
+    "url": "https://arxiv.org/abs/2403.06149",
+    "license_status": "arXiv public preprint; cite/link rather than copying the dataset",
+    "use": "compares holistic and trait-level LLM scoring and reports feedback utility alongside prediction gaps",
+    "limitation": "ASAP benchmark and general English essays, not CET-6 human-rater data"
+  },
+  {
+    "id": "arxiv-2409-13120",
+    "kind": "open_research_method_reference",
+    "title": "Are Large Language Models Good Essay Graders?",
+    "url": "https://arxiv.org/abs/2409.13120",
+    "license_status": "arXiv public preprint; license/data reuse must be checked separately",
+    "use": "use as an adversarial calibration reference: numerical agreement can be weak even when feedback is useful",
+    "limitation": "ASAP benchmark, not CET-6; not a verdict on current Codex"
+  },
+  {
+    "id": "github-workbuddyskills-writing-reviewer",
+    "kind": "open_implementation_reference",
+    "title": "English Exam Writing Reviewer",
+    "url": "https://github.com/infometa/workbuddyskills/tree/main/skills/english-exam-writing-reviewer",
+    "license_status": "repository declares third-party archive/learning use; no clear redistribution license for the skill files",
+    "use": "compare routing, evidence-trace and output-schema design",
+    "limitation": "not official, not an independently validated CET-6 human-scoring benchmark"
+  },
+  {
+    "id": "github-cet-writing-grader",
+    "kind": "open_implementation_reference",
+    "title": "AI CET-4 CET-6 essay grading tool",
+    "url": "https://github.com/sabercy1031/cet-writing-grader",
+    "license_status": "no explicit license found during 2026-09-01 check",
+    "use": "product-existence and interface reference only",
+    "limitation": "no publicly verifiable human-rated calibration set found"
+  },
+  {
+    "id": "github-ai-essay-translation-grader",
+    "kind": "open_implementation_reference",
+    "title": "AI_Essay-Translation_Grader",
+    "url": "https://github.com/Bogger111/AI_Essay-Translation_Grader",
+    "license_status": "no explicit license found during 2026-09-01 check",
+    "use": "compare AI-assisted essay/translation workflow",
+    "limitation": "README describes a model-assisted tool but supplies no CET human-rater calibration evidence"
+  },
+  {
+    "id": "github-liuxiangjian-cet-skill",
+    "kind": "open_implementation_reference",
+    "title": "Liuxiangjian-ai/cet-skill",
+    "url": "https://github.com/Liuxiangjian-ai/cet-skill",
+    "license_status": "MIT declared by repository; verify the exact commit and bundled-data licenses before reuse",
+    "use": "closest public analogue for a multi-module CET-4/CET-6 Skill, including writing, translation, reading, listening and study planning",
+    "limitation": "public workflow claims and repository size are not evidence of official examiner equivalence or human-rater calibration; do not copy bundled material without checking rights"
+  },
+  {
+    "id": "github-qingzhou-cet6-tutor",
+    "kind": "open_implementation_reference",
+    "title": "qingzhou-hub/cet6-tutor",
+    "url": "https://github.com/qingzhou-hub/cet6-tutor",
+    "license_status": "no explicit repository license identified during 2026-09-01 check",
+    "use": "study data schemas, answer separation, spaced-repetition and local-engine patterns",
+    "limitation": "do not redistribute its question, answer or audio files; claimed coverage is not an independently audited benchmark"
+  },
+  {
+    "id": "github-leonhard-cet-writing-translation",
+    "kind": "open_implementation_reference",
+    "title": "Leonhard-Euler271/cet6-writing-translation-skills",
+    "url": "https://github.com/Leonhard-Euler271/cet6-writing-translation-skills",
+    "license_status": "license status must be checked at the exact repository revision before reuse",
+    "use": "reference for separating writing and translation skills, trait-level feedback and second-draft loops",
+    "limitation": "no public evidence of calibrated agreement with official CET-6 raters"
+  },
+  {
+    "id": "github-tong666-liu-xiaoyan",
+    "kind": "open_implementation_reference",
+    "title": "tong666-bit/liu-xiaoyan-skill",
+    "url": "https://github.com/tong666-bit/liu-xiaoyan-skill",
+    "license_status": "MIT declared by repository; check whether every bundled asset shares that license",
+    "use": "reference for Chinese interaction style, long-sentence explanations and distractor analysis",
+    "limitation": "community teaching heuristics are not official item-writing rules or examiner evidence"
+  },
+  {
+    "id": "github-raisuny-cet6-ai-assistant",
+    "kind": "open_implementation_reference",
+    "title": "raisuny-384/cet6-ai-assistant",
+    "url": "https://github.com/raisuny-384/cet6-ai-assistant",
+    "license_status": "no explicit repository license identified during 2026-09-01 check",
+    "use": "product and interface reference for question submission and feedback loops",
+    "limitation": "no publicly verifiable human-rated calibration set found"
+  },
+  {
+    "id": "github-zhangningya-tend-cet6",
+    "kind": "open_implementation_reference",
+    "title": "ZhangNingYA/tend",
+    "url": "https://github.com/ZhangNingYA/tend",
+    "license_status": "check the repository license and the rights of embedded CET6 question content before reuse",
+    "use": "reference for structured year/set reading pages containing cloze, paragraph matching and reading practice",
+    "limitation": "code-search visibility is not a license to copy the underlying exam text or answer key"
+  },
+  {
+    "id": "github-hclemini-cet6-full-process",
+    "kind": "open_implementation_reference",
+    "title": "HCLEMINI/CET6-Full-Process-Learning",
+    "url": "https://github.com/HCLEMINI/CET6-Full-Process-Learning",
+    "license_status": "verify the exact repository license and third-party material rights before reuse",
+    "use": "reference for an end-to-end CET6 web workflow and DeepSeek-assisted listening, reading, writing and cloze modules",
+    "limitation": "implementation presence is not evidence of official item-writer or human-rater equivalence"
+  },
+  {
+    "id": "github-affordan-cet6word-agent",
+    "kind": "open_implementation_reference",
+    "title": "Affordan/cet6word-agent",
+    "url": "https://github.com/Affordan/cet6word-agent",
+    "license_status": "verify repository and vocabulary-data licenses before reuse",
+    "use": "reference for vocabulary-agent routing, persistence and DeepSeek V4 Flash configuration",
+    "limitation": "model configuration does not establish that generated exercises match official CET6 item statistics"
+  },
+  {
+    "id": "github-opus456-english-assistant",
+    "kind": "open_implementation_reference",
+    "title": "opus456/English_assistant",
+    "url": "https://github.com/opus456/English_assistant",
+    "license_status": "check repository and prompt-template license before reuse",
+    "use": "reference for CET6 material-generation prompts with switchable DeepSeek backends",
+    "limitation": "no publicly verifiable independent benchmark for official CET6 quality"
+  }
+]

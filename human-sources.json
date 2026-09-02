@@ -171,5 +171,55 @@
     "license_status": "check repository and prompt-template license before reuse",
     "use": "reference for CET6 material-generation prompts with switchable DeepSeek backends",
     "limitation": "no publicly verifiable independent benchmark for official CET6 quality"
+  },
+  {
+    "id": "brown-liu-norouzian-wcf-meta-2023",
+    "kind": "peer_reviewed_training_method_reference",
+    "title": "Effectiveness of written corrective feedback in developing L2 accuracy: A Bayesian meta-analysis",
+    "doi": "10.1177/13621688221147374",
+    "url": "https://journals.sagepub.com/doi/10.1177/13621688221147374",
+    "license_status": "publisher page is publicly readable; full-text reuse rights not assumed",
+    "use": "supports using written corrective feedback and testing delayed effects; informs progressive feedback design",
+    "limitation": "aggregates L2 accuracy studies rather than CET-6 holistic writing scores; does not establish one universally best feedback type"
+  },
+  {
+    "id": "abdi-tabari-planning-2016",
+    "kind": "open_training_method_reference",
+    "title": "The effects of planning time on complexity, accuracy, fluency, and lexical variety in L2 descriptive writing",
+    "doi": "10.1186/s40862-016-0015-6",
+    "url": "https://link.springer.com/article/10.1186/s40862-016-0015-6",
+    "license_status": "CC-BY-4.0",
+    "use": "method reference for separating pre-task hints, online planning, fluency, accuracy and lexical variety",
+    "limitation": "single descriptive task with 78 intermediate EFL learners, not CET-6 argumentative writing or a direct test of vocabulary hint cards"
+  },
+  {
+    "id": "he-li-poa-translation-2025",
+    "kind": "open_training_method_reference",
+    "title": "An empirical study on the teaching mode of cultural translation in college English based on the Production Oriented Approach",
+    "doi": "10.1371/journal.pone.0326127",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326127",
+    "license_status": "CC-BY-4.0",
+    "use": "supports initial output, targeted enabling, repeated evaluation and revised cultural translation in a college-English context",
+    "limitation": "quasi-experimental multi-component intervention with two intact classes; cannot isolate back-translation or prove a universally best CET-6 method"
+  },
+  {
+    "id": "mohammadi-beiki-keyvanfar-backtranslation-2022",
+    "kind": "translation_training_method_reference",
+    "title": "The Impact of Back-translation Instruction with Collaborative Activities on Iranian English Students' Translation Achievement",
+    "doi": "10.21093/ijeltal.v7i1.1193",
+    "url": "https://ijeltal.org/index.php/ijeltal/article/view/1193",
+    "license_status": "public article page; verify article license before copying full text or data",
+    "use": "method reference for back-translation plus collaborative comparison and revision",
+    "limitation": "30 translation students; compares collaborative and individual back-translation, not back-translation against a no-back-translation CET-6 control"
+  },
+  {
+    "id": "dress-efl-human-scoring-2025",
+    "kind": "external_human_scoring_dataset_reference",
+    "title": "DREsS: Dataset for Rubric-based Essay Scoring on EFL Writing",
+    "doi": "10.18653/v1/2025.acl-long.659",
+    "url": "https://aclanthology.org/2025.acl-long.659/",
+    "license_status": "paper publicly available; dataset access and reuse are governed separately and require checking the current consent/license terms",
+    "use": "supplementary method reference for expert-scored EFL content, organization and language traits",
+    "limitation": "not CET-6, uses a different rubric and score scale, and cannot calibrate official CET-6 scores directly"
   }
 ]

@@ -1,4 +1,4 @@
 interface:
   display_name: "CET-6 Review Skill"
-  short_description: "大学英语六级阅读、语篇填词、作文翻译与个人词句复用的深度复盘"
-  default_prompt: "使用 CET-6 Review Skill。请先识别我的短命令，只加载当前任务需要的模块；作文/翻译范文优先复用我的相关词句和近期句型，并给高价值表达附亲民中文注释。"
+  short_description: "六级阅读深度复盘、作文迁移训练、翻译回译诊断与阅卷证据审计"
+  default_prompt: "使用 $cet6-review-skill 识别我的短命令并只加载相关模块：作文先有限提示再等我完成初稿，翻译回译分查信息保真与英文自然度，阅卷规则标明证据等级。"
